@@ -1,0 +1,1 @@
+let number= prompt("geef een getal")
